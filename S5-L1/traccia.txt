@@ -1,0 +1,3 @@
+Esporta la tabella utenti in formato csv in due distinti file uno con i campi delimitati e uno con i campi non 
+delimitati. Successivamente importa i dati dal csv al database.
+
